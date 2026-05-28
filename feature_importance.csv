@@ -1,0 +1,13 @@
+Feature,Importance
+age,561
+occupation,379
+education,377
+hours_per_week,331
+capital_gain,324
+capital_loss,283
+relationship,199
+workclass,180
+marital_status,142
+native_country,118
+race,62
+sex,44
